@@ -1,0 +1,11 @@
+{
+    "name": "NFT #11",
+    "description": "The first NFT in my collection",
+    "image": "https://ipfs.filebase.io/ipfs/QmUHXC94obyYjR74DfEnjLMyjCFfzMXZKqu3RAxS5RSTuD",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Average"
+      }
+    ]
+  }
